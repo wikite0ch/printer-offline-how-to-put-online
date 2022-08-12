@@ -1,4 +1,3 @@
-**[printer offline how to put online](https://github.com/pcs0lution/screen-recorder-for-pc/)**
 
 # printer offline how to put online
 
