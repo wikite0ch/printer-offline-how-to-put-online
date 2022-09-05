@@ -1,7 +1,7 @@
 
 # printer offline how to put online
 
-[![printer offline how to put online](gett-detail.png)](https://computersolve.com/printer-offline-how-to-put-online/)
+[![printer offline how to put online](gett-detail.png)](https://icncomputer.com/printer-offline-how-to-put-online)
 
 **printer offline how to put online** - Printers on Windows 11/10 can have a status of offline and online. I was surprised to find that because everyone wants their default printer to be available and ready for print. One should know that when a printer goes offline, it doesn’t mean it has been removed. It could go offline because of an error during printing or an issue with the printer driver. Windows OS can set the status of the printer as offline if it finds a problem. In this post, I will show how you can change a Printer status to online or Restore Printer to online status.
 
